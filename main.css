@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    display: inline-block;
+    background-color: red;
+    width: 534px;
+    height: 324px;
+    text-align: center;
+}
+.box2{
+    display: inline;
+    background-color: rgb(56, 56, 191);
+    width: 534;
+    height: 324px;
+}
+p{
+    background-color: red;
+    width: 1134px;
+    height: 134px;
+    color: white;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 20.5px;
+    font-size: 23px;
+    /* font-family:'Courier New', */
+    font-family: 'Tilt Prism', cursive;
+}
